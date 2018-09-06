@@ -1,0 +1,36 @@
+DATA_SOURCE,PRODUCT_AFFILIATION,DESCRIPTION,DETAILS,YEAR,SIZE_MB,FORMAT,FROM,TO,API
+RStackoverflow,Phillytalent,R Questions from Stack Overflow,Full text of Stack Overflow Q&A about the R statistical programming language,2018,181,csv,2008,2018,kaggle datasets download -d stackoverflow/rquestions
+Stack Overflow Data,Phillytalent,Stack Overflow Data (BigQuery Dataset),Source: stack overflow,2018,164000,,,,https://www.kaggle.com/stackoverflow/stackoverflow
+Accredited Universities in the USA,Phillytalent,Accreditation info from the Department of Education,source: department of education ,2018,,,,,kaggle datasets download -d ghalebdweikat/accredited-universities-in-the-usa
+Countries of the World,,"Country names linked to region, population, area size, GDP, mortality and more",,2018,,,,,kaggle datasets download -d fernandol/countries-of-the-world
+Open Machine Learning Course by OpenDataScience,,,mlcourse.ai,,,,,,kaggle datasets download -d kashnitsky/mlcourse
+AMAZON Job Skills,,Software Development jobs,,,,,,,kaggle datasets download -d atahmasb/amazon-job-skills
+Air pressure system failures in Scania trucks,,Predict failures and minimize costs based on sensor readings,UCI Machine Learning last updated 5 months ago,,,,,,kaggle datasets download -d uciml/aps-failure-at-scania-trucks-data-set
+Starbucks Locations Worldwide,,"Name, ownership type, and location of every Starbucks store in operation",,2018,1,csv,,,kaggle datasets download -d starbucks/store-locations
+Where it Pays to Attend College,,"Salaries by college, region, and academic major",Source  : wall street journal,2018,1,csv,,,kaggle datasets download -d wsj/college-salaries
+The Zurich Urban Micro Aerial Vehicle Dataset,,"For appearance-based localization, visual odometry, and SLAM",Log data of the on-board barometric pressure sensor.,2018,290,,,,kaggle datasets download -d mrisdal/zurich-urban-micro-aerial-vehicle
+Python Questions from Stack Overflow,,Full text of Stack Overflow Q&A about the Python programming language,From stack overflow,2016,490,,,,kaggle datasets download -d stackoverflow/pythonquestions
+Resume Entities for NER,,A document annotation dataset to perform NER on resumes.,https://www.kaggle.com/kmader/finding-good-parts-of-resumes,2018,1,json,,,kaggle datasets download -d dataturks/resume-entities-for-ner
+"Stack Overflow Developer Survey, 2017",,"A look into the lives of over 64,000 Stack Overflow developers",https://www.kaggle.com/rtatman/regression-challenge-day-2,2017,14,csv,,,kaggle datasets download -d stackoverflow/so-survey-2017
+Localization Data for Posture Reconstruction,,Recordings of five people while wearing localization tags,https://www.kaggle.com/plarmuseau/demo-movement,,,csv,,,kaggle datasets download -d uciml/posture-reconstruction
+US jobs on Monster.com,,"22,000 US-based Job Listings",,2017,,csv,,,kaggle datasets download -d PromptCloudHQ/us-jobs-on-monstercom
+Company Acquisitions Data,,Data of Companies acquired by 7 top companies as of May 2018,https://www.kaggle.com/shivamb/github-acquired-exploring-the-past-acquisitions,2018,20,csv,,,kaggle datasets download -d shivamb/company-acquisitions-7-top-companies
+HackerRank Developer Survey 2018,,"Survey of 25,000 professionals and students on the state of developer skills",https://www.kaggle.com/ash316/hackerrank-s-hackers-and-developers,2018,5,csv,,,kaggle datasets download -d hackerrank/developer-survey-2018
+Stack Overflow 2018 Developer Survey,,,Individual responses on the 2018 Developer Survey fielded by Stack Overflow,2018,20,,,,kaggle datasets download -d stackoverflow/stack-overflow-2018-developer-survey
+World Cities,,"All of the world's major cities above 15,000 inhabitants",,,,,,,kaggle datasets download -d okfn/world-cities
+Uber Pickups in New York City,,Trip data for over 20 million Uber (and other for-hire vehicle) trips in NYC,,2016,210,,,,kaggle datasets download -d fivethirtyeight/uber-pickups-in-new-york-city
+Sensor readings from a wall-following robot,,Data collected from a robot while navigating around a room,https://www.kaggle.com/plarmuseau/wall-following-robot-scikit-learn-classifiers,,,,,,kaggle datasets download -d uciml/wall-following-robot
+Flight Route Database,,"A database of 59,036 flight routes",,,,,,,
+DeepSat (SAT-6) Airborne Dataset,,"405,000 image patches each of size 28x28 and covering 6 landcover classes",,,,,,,
+Aviation Accident Database & Synopses,,The NTSB aviation accident dataset,,,,,,,
+NASA Facilities,,A dataset of NASA facility names and locations,,,,,,,
+"Aircraft Wildlife Strikes, 1990-2015",,What bird species has caused the most damage to airplanes?,,,,,,,
+"Structural MRI Datasets (T1, T2, FLAIR etc.)",,Coursera NeuroHacking in R course datasets,,,,,,,
+Keras Pretrained models,,This dataset helps to use pretrained keras models in Kernels.,,,,,,,
+Urban Dictionary Words And Definitions,,Corpus of 2.6 million words with ratings from urban dictionary,,,,,,,
+Yelp Dataset,,"A trove of reviews, businesses, users, tips, and check-in data!",From yelp,2018,240,,,,
+H1B Disclosure Dataset,,H1B Disclosure Dataset - Predicting the Case Status,,,,,,,
+Meetups data from meetup.com,,Organized data for various meetup.com entities along with relational schema,,,,,,,
+Google Analytics Sample,,Google Analytics Sample (BigQuery Dataset),,2018,,,,,
+Meta Kaggle,,"Kaggle's public data on competitions, users, submission scores, and kernels",,,,,,,kaggle datasets download -d kaggle/meta-kaggle
+,,,,,,,,,
